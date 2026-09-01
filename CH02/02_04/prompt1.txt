@@ -1,0 +1,8 @@
+json```
+{
+   "action":"GetCurrentUser",
+   "action_input":""
+}
+```
+Observation: [{"userId":"2","username":"bilbo"}]
+Thought:  I have the current userId. Its 2. I can now proceed.
